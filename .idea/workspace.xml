@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5339cc05-0a7d-426e-8571-514bd378debc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1athioMdwhJAYjzhNEpj9CDAdme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.NumberUtilitiesTest">
+    <configuration name="NumberUtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Loop Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberUtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtilitiesTest.testGetRangeWithOneStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Loop Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberUtilitiesTest" />
+      <option name="METHOD_NAME" value="testGetRangeWithOneStep" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleUtilitiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Loop Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleUtilitiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleUtilitiesTest.testGetTriangle_ForBigTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Loop Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleUtilitiesTest" />
+      <option name="METHOD_NAME" value="testGetTriangle_ForBigTriangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleUtilitiesTest.testGetTriangle_ForOneRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Loop Lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleUtilitiesTest" />
+      <option name="METHOD_NAME" value="testGetTriangle_ForOneRow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="13" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberUtilitiesTest" />
+        <item itemvalue="JUnit.NumberUtilitiesTest.testGetRangeWithOneStep" />
+        <item itemvalue="JUnit.TriangleUtilitiesTest" />
+        <item itemvalue="JUnit.TriangleUtilitiesTest.testGetTriangle_ForOneRow" />
+        <item itemvalue="JUnit.TriangleUtilitiesTest.testGetTriangle_ForBigTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5339cc05-0a7d-426e-8571-514bd378debc" name="Default Changelist" comment="" />
+      <created>1587560926774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587560926774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587568037553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1587568037553" />
+    <state x="583" y="328" key="Github.CreateGistDialog" timestamp="1587561117609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1587561117609" />
+    <state width="1493" height="326" key="GridCell.Tab.0.bottom" timestamp="1587568611988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587568611988" />
+    <state width="1493" height="326" key="GridCell.Tab.0.center" timestamp="1587568611987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587568611987" />
+    <state width="1493" height="326" key="GridCell.Tab.0.left" timestamp="1587568611987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587568611987" />
+    <state width="1493" height="326" key="GridCell.Tab.0.right" timestamp="1587568611988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587568611988" />
+    <state x="269" y="0" key="SettingsEditor" timestamp="1587561627025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587561627025" />
+  </component>
+</project>
